@@ -1,6 +1,6 @@
 # Sendok Madu Project
 
-<center><img src='./sendok-madu.png' width="250px"></img></center>
+<p align='center'><img src='./sendok-madu.png' width="250px"></img></p>
 
 ## Apa itu Sendok Madu?
 
