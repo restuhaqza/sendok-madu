@@ -1,4 +1,6 @@
-# Sendok Madu
+# Sendok Madu Project
+
+<center><img src='./sendok-madu.png' width="250px"></img></center>
 
 ## Apa itu Sendok Madu?
 
